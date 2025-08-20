@@ -1,9 +1,9 @@
-## Привет, меня зовут **Гайсин Тимур**. Я начинающий Python-разработчик.
+## Привет, меня зовут **Гайсин Тимур**. Я начинающий Python-разработчик. :snake:
 
-### Мои написанные программы: 
-- [текстовый редактор](https://github.com/Cheboxxxarik/simpleTextEditor)
-- [аудиоплеер](https://github.com/Cheboxxxarik/simpleAudioPlayer) (находится в разработке)
+### Мои пет-проекты: 
+- [текстовый редактор :notebook:](https://github.com/Cheboxxxarik/simpleTextEditor)
+- [аудиоплеер :sound:](https://github.com/Cheboxxxarik/simpleAudioPlayer) (находится в разработке)
 
 ### Мои контакты:
-- e-mail: timurgaisin228@yandex.ru
-- GitHub: https://github.com/Cheboxxxarik
+- e-mail :email:: timurgaisin228@yandex.ru
+- GitHub :computer:: https://github.com/Cheboxxxarik
