@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Cheboxxxarik
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Привет, меня зовут **Гайсин Тимур**. Я начинающий Python-разработчик.
 
-<!---
-Cheboxxxarik/Cheboxxxarik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Мои написанные программы: 
+- [текстовый редактор](https://github.com/Cheboxxxarik/simpleTextEditor)
+- [аудиоплеер](https://github.com/Cheboxxxarik/simpleAudioPlayer) (находится в разработке)
+
+### Мои контакты:
+- e-mail: timurgaisin228@yandex.ru
+- GitHub: https://github.com/Cheboxxxarik
