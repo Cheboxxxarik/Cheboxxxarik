@@ -2,7 +2,7 @@
 
 ### Мои пет-проекты: 
 - [текстовый редактор :notebook:](https://github.com/Cheboxxxarik/simpleTextEditor)
-- [аудиоплеер :sound:](https://github.com/Cheboxxxarik/simpleAudioPlayer) (находится в разработке)
+- [аудиоплеер :sound:](https://github.com/Cheboxxxarik/simpleAudioPlayer)
 
 <!---### Мои контакты:
 - e-mail :email:: timurgaisin228@yandex.ru
